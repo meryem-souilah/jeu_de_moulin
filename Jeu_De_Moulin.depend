@@ -1,0 +1,587 @@
+# depslib dependency file v1.0
+1739312207 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"joueur.h"
+	"Plateau.h"
+	"pion.h"
+
+1739220465 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739220566 c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\menu.h
+
+1739220911 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739221003 c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\plateau.h
+
+1739307019 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307019 c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739308024 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	"Plateau.h"
+	"menu.h"
+	"pion.h"
+	"joueur.h"
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1739308491 c:\users\dell latitude 5440\desktop\jeu_de_moulin\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739307019 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307019 c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739370960 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220566 c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\menu.h
+
+1739315961 c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\plateau.h
+
+1739372690 c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220465 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739369147 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315961 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739307019 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307019 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739370960 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220566 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\menu.h
+
+1739315961 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\plateau.h
+
+1739372690 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220465 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739379783 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	"pion.h"
+	"joueur.h"
+
+1739315961 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 2\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739307020 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307020 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739483151 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220568 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\plateau.h
+
+1739491431 c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\pion.h
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739491292 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final 3\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739307020 source:d:\jeu_de_moulin final4\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307020 d:\jeu_de_moulin final4\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739483152 source:d:\jeu_de_moulin final4\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220568 d:\jeu_de_moulin final4\jeu_de_moulin\menu.h
+
+1739315962 d:\jeu_de_moulin final4\jeu_de_moulin\plateau.h
+
+1739491432 d:\jeu_de_moulin final4\jeu_de_moulin\pion.h
+	"joueur.h"
+
+1739220466 source:d:\jeu_de_moulin final4\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739491432 source:d:\jeu_de_moulin final4\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:d:\jeu_de_moulin final4\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739307020 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739307020 c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739483152 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220568 c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\plateau.h
+
+1739491432 c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\pion.h
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739547580 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final4\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739307020 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739569212 c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739483152 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739220568 c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\plateau.h
+
+1739568341 c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739549930 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739569225 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\ordinateur.c
+	"ordinateur.h"
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<stdio.h>
+
+1739569212 c:\users\dell latitude 5440\desktop\jeu_de_moulin final5\jeu_de_moulin\ordinateur.h
+	<stdbool.h>
+
+1739573537 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\menu.h
+
+1739549930 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739568342 c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\plateau.h
+
+1739573388 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin final6\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739573537 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739573388 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\plateau.h
+
+1739568342 c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739573587 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin gh\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739580896 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\joueur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739582260 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\plateau.h
+
+1739610009 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739610036 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739580896 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739611945 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\joueur.h
+
+1739612510 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+	"ordinateur.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\plateau.h
+
+1739610009 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739613400 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
+1739611788 source:c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\ordinateur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordinateur.h"
+
+1739613695 c:\users\dell latitude 5440\desktop\jeu_de_moulin souilah_lemdarsi_manyani 2025\jeu_de_moulin\ordinateur.h
+	"Plateau.h"
+
+1739580896 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"joueur.h"
+
+1739611945 c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\joueur.h
+
+1739612510 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"menu.h"
+	"Plateau.h"
+	"joueur.h"
+	"pion.h"
+	"ordinateur.h"
+
+1739573537 c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\menu.h
+
+1739315962 c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\plateau.h
+
+1739610009 c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\pion.h
+	<stdbool.h>
+	"joueur.h"
+
+1739613695 c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\ordinateur.h
+	"Plateau.h"
+
+1739220466 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1739613695 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\ordinateur.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordinateur.h"
+
+1739613695 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\pion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pion.h"
+	"joueur.h"
+
+1739315962 source:c:\users\dell latitude 5440\desktop\2025_projet c_souilah_lmdarsi_manyani\jeu_de_moulin\plateau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Plateau.h"
+
